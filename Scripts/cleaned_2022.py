@@ -21,7 +21,8 @@ for column in df.columns:
 clean_file = "Cleaned_Student_Data.xlsx"
 df.to_excel(clean_file, index=False)
 
-print("DATA CLEANED SUCCESSFULLY ✅")
+print("DATA CLEANED SUCCESSFULLY ")
 
 # 5) Download cleaned dataset
 files.download(clean_file)
+
