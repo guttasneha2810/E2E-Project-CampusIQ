@@ -24,5 +24,5 @@ df.to_csv(clean_file, index=False)
 
 print("Dataset cleaned successfully!")
 
-# --------- DOWNLOAD ----------
+
 files.download(clean_file)
