@@ -38,4 +38,5 @@ df.to_csv(output_file, index=False)
 # Download automatically
 files.download(output_file)
 
-print("\n✅ CLEANING COMPLETED — FILE DOWNLOADED")
+print("\n CLEANING COMPLETED — FILE DOWNLOADED")
+
