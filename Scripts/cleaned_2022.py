@@ -1,7 +1,5 @@
 
 
-# =====================================
-
 import pandas as pd
 from google.colab import files
 
@@ -25,6 +23,7 @@ print("DATA CLEANED SUCCESSFULLY ")
 
 # 5) Download cleaned dataset
 files.download(clean_file)
+
 
 
 
