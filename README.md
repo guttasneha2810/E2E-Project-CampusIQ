@@ -4,8 +4,8 @@ This project presents a comprehensive data analysis and visualization system des
 In this project, raw student data is first cleaned, structured, and organized in Excel using advanced formulas, pivot tables, and data validation techniques. Key metrics such as academic performance trends, placement statistics, department-wise results, gender ratios, and fee dues are calculated and prepared for analysis.The structured dataset is then integrated into Power BI to build interactive and dynamic dashboards. These dashboards enable real-time filtering, comparison between student groups, and clear visualization through charts, graphs, and KPI indicators.
 By leveraging Business Intelligence tools, the system improves transparency, simplifies data interpretation, and supports data-driven decision-making. It helps administrators quickly identify trends, monitor performance, and plan academic or placement strategies effectively.
 DATA COLLECTION :- Collect raw student data including academic performance, placement records, gender details, attendance, and fee information.
-Data Cleaning using Python :- Import dataset using Pandas ,Handle missing values and remove duplicates ,Standardize formats (dates, percentages, categories) ,Perform data transformations and feature creation ,Export the cleaned dataset to Excel/CSV
-Import Data into Power BI :- Load the cleaned Excel/CSV file into Power BI ,Use Power Query Editor for additional transformations (if needed)
-Data Modeling & KPI Creation :- Create relationships between tables ,Define DAX measures for KPIs (Placement %, Average Marks, Fee Due Count, etc.), 
-Dashboard Development :- Design interactive charts (bar, pie, line, KPI cards), Add slicers for filtering (Department, Year, Gender),Create a clean and user-friendly layout
-Insight Generation & Reporting :- Analyze trends and patterns,Generate reports for decision-making, Share or publish dashboards
+DATA CLEANING USING PYTHON :- Import dataset using Pandas ,Handle missing values and remove duplicates ,Standardize formats (dates, percentages, categories) ,Perform data transformations and feature creation ,Export the cleaned dataset to Excel/CSV
+IMPORT DATA INTO POWER BI :- Load the cleaned Excel/CSV file into Power BI ,Use Power Query Editor for additional transformations (if needed)
+DATA MODELING & KPI CREATION :- Create relationships between tables ,Define DAX measures for KPIs (Placement %, Average Marks, Fee Due Count, etc.), 
+DASHBOARD DEVELOPMENT :- Design interactive charts (bar, pie, line, KPI cards), Add slicers for filtering (Department, Year, Gender),Create a clean and user-friendly layout
+INSIGHT GENERATION & REPORTING :- Analyze trends and patterns,Generate reports for decision-making, Share or publish dashboards
