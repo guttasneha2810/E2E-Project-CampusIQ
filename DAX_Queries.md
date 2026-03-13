@@ -97,3 +97,21 @@ COUNT('Student all Years'[Student_ID]),
 NOT('Student all Years'[Placement_Status] = "UNEMPLOYED")
 )
 ```
+## Placement Category
+```DAX
+Placement_Category =
+SWITCH(
+    TRUE(),
+    
+    CONTAINSSTRING(UPPER('Student all Years'[Placement_Status]), "UNEMPLOYED"), "Unemployed",
+    
+    CONTAINSSTRING(UPPER('Student all Years'[Placement_Status]), "US") ||
+    CONTAINSSTRING(UPPER('Student all Years'[Placement_Status]), "USA") ||
+    CONTAINSSTRING(UPPER('Student all Years'[Placement_Status]), "UK") ||
+    CONTAINSSTRING(UPPER('Student all Years'[Placement_Status]), "LONDON") ||
+    CONTAINSSTRING(UPPER('Student all Years'[Placement_Status]), "GERMANY"),
+    "Higher Studies",
+    
+    "Placed"
+)
+```
