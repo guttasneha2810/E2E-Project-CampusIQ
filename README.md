@@ -7,8 +7,8 @@ A comprehensive data analytics and visualization platform that helps educational
 
 ## 🎯 Project Overview
 
-**Project Title:** CampusIQ – Student Data Analytics & Visualization Platform
-**Course:** B.Tech 3-2 Semester E2E Mini Project
+**Project Title:** CampusIQ – Student Data Analytics & Visualization Platform.
+**Course:** B.Tech 3-2 Semester E2E Mini Project.
 
 **Technology Stack:**
 
