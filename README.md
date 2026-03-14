@@ -11,11 +11,7 @@ A comprehensive data analytics and visualization platform that helps educational
 
 **Course:** B.Tech 3-2 Semester E2E Mini Project.
 
-Technology Stack:
-
-Microsoft Excel
-
-Microsoft Power BI
+Technology Stack:Microsoft Excel , Microsoft Power BI
 
 Purpose:
 To analyze and visualize student academic and placement data using Business Intelligence tools to support data-driven institutional decision making.
