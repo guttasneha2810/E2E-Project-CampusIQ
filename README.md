@@ -293,24 +293,6 @@ git log --oneline
 
 ---
 
-## 📝 Keywords
-
-Data Analysis
-Data Visualization
-Microsoft Excel
-Power BI
-College Dataset
-Placement Statistics
-Interactive Dashboards
-Business Intelligence
-Customized Reports
-Real-Time Data Filtering
-Decision Making
-Visual Analytics
-Institutional Improvement
-
----
-
 ## 🤝 Project Purpose
 
 CampusIQ helps educational institutions transform raw academic data into meaningful insights, enabling administrators to make efficient and data-driven decisions.
