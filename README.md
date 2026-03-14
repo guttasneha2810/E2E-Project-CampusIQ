@@ -11,22 +11,17 @@ A comprehensive data analytics and visualization platform that helps educational
 
 **Course:** B.Tech 3-2 Semester E2E Mini Project.
 
-## 🛠 Tech Stack Identification
+Technology Stack:
 
-**1. Frontend Technologies**
-**Power BI** – Used to design interactive dashboards, charts, KPIs, and filters.
+Microsoft Excel
 
-**2. Backend Technologies**
-**Microsoft Excel** – Used for data storage, cleaning, calculations, and pivot tables.
+Microsoft Power BI
 
-**3. Business Intelligence Tool**
-**Power BI** – Used for data modeling, analytics, and visualization.
+Purpose:
+To analyze and visualize student academic and placement data using Business Intelligence tools to support data-driven institutional decision making.
 
-**4. Dataset**
-**College Student Dataset (Excel)** – Used as input data for analysis.
-
-**5. Deployment**
-**Power BI Desktop** – Used to build, test, and present dashboards.
+Team Member:
+G.Sneha,K.Harsha,K.Nandini,G.Lokaditya.
 
 
 ---
@@ -82,15 +77,23 @@ https://github.com/guttasneha2810/E2E-Project-CampusIQ
 
 ---
 
-## 🛠 Technology Stack
+## 🛠 Tech Stack Identification
 
-**Data Processing:**
+**1. Frontend Technologies**
+**Power BI** – Used to design interactive dashboards, charts, KPIs, and filters.
 
-* Microsoft Excel
+**2. Backend Technologies**
+**Microsoft Excel** – Used for data storage, cleaning, calculations, and pivot tables.
 
-**Data Visualization & BI:**
+**3. Business Intelligence Tool**
+**Power BI** – Used for data modeling, analytics, and visualization.
 
-* Microsoft Power BI
+**4. Dataset**
+**College Student Dataset (Excel)** – Used as input data for analysis.
+
+**5. Deployment**
+**Power BI Desktop** – Used to build, test, and present dashboards.
+
 
 **Version Control:**
 
@@ -192,23 +195,35 @@ The system provides several analytics insights:
 
 ## 📁 Project Structure
 
-```
 CampusIQ/
-│
-├── Dataset/
-│   └── college_dataset.xlsx
-│
-├── Excel_Analysis/
-│   └── data_cleaning_analysis.xlsx
-│
-├── PowerBI_Dashboard/
-│   └── campusIQ_dashboard.pbix
-│
-├── Documentation/
-│   └── project_description.pdf
-│
-└── README.md
-```
+
+Dashboard/
+ Student_IQ_image.png – Dashboard visualization image
+
+Datasets/
+ DATASET_2019.csv – Student dataset for 2019
+ DATASET_2020.csv – Student dataset for 2020
+ DATASET_2021.csv – Student dataset for 2021
+ DATASET_2022.csv – Student dataset for 2022
+ DATASET_2023.csv – Student dataset for 2023
+ DATASET_2024.csv – Student dataset for 2024
+
+PowerBI_Dashboard/
+ Student-IQ_powerBI.pbix – Power BI interactive dashboard file
+
+Scripts/
+ cleaned_2019.py – Data cleaning script for 2019 dataset
+ cleaned_2020.py – Data cleaning script for 2020 dataset
+ cleaned_2021.py – Data cleaning script for 2021 dataset
+ cleaned_2022.py – Data cleaning script for 2022 dataset
+ cleaned_2023.py – Data cleaning script for 2023 dataset
+ cleaned_2024.py – Data cleaning script for 2024 dataset
+
+Additional Files
+ DAX_Queries.md – Power BI DAX formulas used in the dashboard
+ PROJECT_WORKFLOW.md – Step-by-step project workflow
+ README.md – Project documentation
+
 
 ---
 
