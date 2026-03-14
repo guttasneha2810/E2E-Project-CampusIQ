@@ -11,16 +11,23 @@ A comprehensive data analytics and visualization platform that helps educational
 
 **Course:** B.Tech 3-2 Semester E2E Mini Project.
 
-**Technology Stack:**
+## 🛠 Tech Stack Identification
 
-* Microsoft Excel
-* Microsoft Power BI
+**1. Frontend Technologies**
+**Power BI** – Used to design interactive dashboards, charts, KPIs, and filters.
 
-**Purpose:**
-To analyze and visualize student academic and placement data using Business Intelligence tools to support data-driven institutional decision making.
+**2. Backend Technologies**
+**Microsoft Excel** – Used for data storage, cleaning, calculations, and pivot tables.
 
-**Team Member:**
-G.Sneha,K.Harsha,K.Nandini,G.Lokaditya.
+**3. Business Intelligence Tool**
+**Power BI** – Used for data modeling, analytics, and visualization.
+
+**4. Dataset**
+**College Student Dataset (Excel)** – Used as input data for analysis.
+
+**5. Deployment**
+**Power BI Desktop** – Used to build, test, and present dashboards.
+
 
 ---
 
