@@ -19,7 +19,7 @@ A comprehensive data analytics and visualization platform that helps educational
 To analyze and visualize student academic and placement data using Business Intelligence tools to support data-driven institutional decision making.
 
 **Team Member:**
-Gutta Sneha
+G.Sneha,K.Harsha,K.Nandini,G.Lokaditya.
 
 ---
 
