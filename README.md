@@ -195,35 +195,35 @@ The system provides several analytics insights:
 
 ## 📁 Project Structure
 
+```
 CampusIQ/
-
-Dashboard/
- Student_IQ_image.png – Dashboard visualization image
-
-Datasets/
- DATASET_2019.csv – Student dataset for 2019
- DATASET_2020.csv – Student dataset for 2020
- DATASET_2021.csv – Student dataset for 2021
- DATASET_2022.csv – Student dataset for 2022
- DATASET_2023.csv – Student dataset for 2023
- DATASET_2024.csv – Student dataset for 2024
-
-PowerBI_Dashboard/
- Student-IQ_powerBI.pbix – Power BI interactive dashboard file
-
-Scripts/
- cleaned_2019.py – Data cleaning script for 2019 dataset
- cleaned_2020.py – Data cleaning script for 2020 dataset
- cleaned_2021.py – Data cleaning script for 2021 dataset
- cleaned_2022.py – Data cleaning script for 2022 dataset
- cleaned_2023.py – Data cleaning script for 2023 dataset
- cleaned_2024.py – Data cleaning script for 2024 dataset
-
-Additional Files
- DAX_Queries.md – Power BI DAX formulas used in the dashboard
- PROJECT_WORKFLOW.md – Step-by-step project workflow
- README.md – Project documentation
-
+│
+├── Dashboard/
+│   └── Student_IQ_image.png        # Dashboard visualization image
+│
+├── Datasets/
+│   ├── DATASET_2019.csv            # Student dataset for 2019
+│   ├── DATASET_2020.csv            # Student dataset for 2020
+│   ├── DATASET_2021.csv            # Student dataset for 2021
+│   ├── DATASET_2022.csv            # Student dataset for 2022
+│   ├── DATASET_2023.csv            # Student dataset for 2023
+│   └── DATASET_2024.csv            # Student dataset for 2024
+│
+├── PowerBI_Dashboard/
+│   └── Student-IQ_powerBI.pbix     # Power BI dashboard file
+│
+├── Scripts/
+│   ├── cleaned_2019.py             # Data cleaning script for 2019
+│   ├── cleaned_2020.py             # Data cleaning script for 2020
+│   ├── cleaned_2021.py             # Data cleaning script for 2021
+│   ├── cleaned_2022.py             # Data cleaning script for 2022
+│   ├── cleaned_2023.py             # Data cleaning script for 2023
+│   └── cleaned_2024.py             # Data cleaning script for 2024
+│
+├── DAX_Queries.md                  # Power BI DAX formulas used
+├── PROJECT_WORKFLOW.md             # Project workflow documentation
+└── README.md                       # Project documentation
+```
 
 ---
 
