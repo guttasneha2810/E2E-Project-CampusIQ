@@ -1,4 +1,4 @@
-# CampusIQ – Student Performance & Placement Analytics Dashboard
+# CampusIQ – Student Performance & Placement Dashboard
 
 A comprehensive **data analytics and visualization platform** that helps educational institutions analyze **student admissions, placements, and placement trends** using Business Intelligence tools.
 
